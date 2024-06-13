@@ -1,4 +1,5 @@
 <div style="background-color: #8f2e5e; padding: 20px; border-radius: 10px;">
+  <div style="max-width: 800px; margin: 0 auto; padding: 20px; border-radius: 10px; background-color: #121630;">
   <h1 align="center">Hi 👋, I'm Aakash Puthussery</h1>
   <h3 align="center">A passionate backend and AI/ML developer from India</h3>
 
@@ -22,14 +23,19 @@
   <p align="center"><b>Ruby on Rails</b></p>
 
   <h2 align="center">👨‍💻 My Projects</h2>
-  <p align="center">
-    <a href="https://aakashputhussery.github.io/My_portfolio/" target="_blank"><b>My Portfolio</b></a>
-    <a href="https://github.com/AakashPuthussery/Crime-Analysis-and-Punishment_Prediction-.git" target="_blank"><b>Crime-Analysis-and-Punishment_Prediction</b></a>
-    <a href="https://github.com/AakashPuthussery/ttts-and-sttt.git" target="_blank"><b>Test to Speech and Speech to Test Translator</b></a>
-    <a href="https://github.com/AakashPuthussery/gpt-model.git" target="_blank"><b>GPT Model</b></a>
-    <a href="https://github.com/AakashPuthussery/online_turff_booking.git" target="_blank"><b>Turff Booking</b></a>
-    <a href="https://github.com/AakashPuthussery/Road-Accident-Data-Analysis-PowerBI.git" target="_blank"><b>Road Accident Power BI</b></a>
-  </p>
+
+<p align="center">
+  <a href="https://aakashputhussery.github.io/My_portfolio/" target="_blank"><b>My Portfolio</b></a><br>
+  <a href="https://github.com/AakashPuthussery/Crime-Analysis-and-Punishment_Prediction-.git" target="_blank"><b>Crime-Analysis-and-Punishment_Prediction</b></a><br>
+  <a href="https://github.com/AakashPuthussery/ttts-and-sttt.git" target="_blank"><b>Test to Speech and Speech to Text Translator</b></a><br>
+  <a href="https://github.com/AakashPuthussery/gpt-model.git" target="_blank"><b>GPT Model</b></a><br>
+  <a href="https://github.com/AakashPuthussery/online_turff_booking.git" target="_blank"><b>Turf Booking</b></a><br>
+  <a href="https://github.com/AakashPuthussery/Road-Accident-Data-Analysis-PowerBI.git" target="_blank"><b>Road Accident Power BI</b></a><br>
+</p>
+
+
+
+
 
   <h2 align="center">💬 Ask Me About</h2>
   <p align="center"><b>ML, DL, NLP, Ruby on Rails, Python</b></p>
