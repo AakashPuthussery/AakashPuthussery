@@ -23,7 +23,7 @@
       </a>
     </p>
     <h2 align="center">🌱 Currently Learning</h2>
-    <p align="center"><b>Ruby on Rails</b></p>
+    <p align="center"><b>Ruby on Rails, LLM</b></p>
     <h2 align="center">👨‍💻 My Projects</h2>
     <p align="center">
       <a href="https://aakashputhussery.github.io/My_portfolio/" target="_blank"><b>My Portfolio</b></a><br>
